@@ -1,8 +1,8 @@
 # SFBEATS
 
-SFBEATS is a React + Vite demo app that showcases a beat catalog for music producer and artist SF. It is designed as a clean, responsive landing page where users can browse beat cards, open beat details, and explore a modern music showcase.
+![Project preview](./public/preview.png)
 
-![Project preview](public/preview)
+SFBEATS is a React + Vite demo app that showcases a beat catalog for music producer and artist SF. It is designed as a clean, responsive landing page where users can browse beat cards, open beat details, and explore a modern music showcase.
 
 ## Purpose
 
